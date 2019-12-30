@@ -1,3 +1,4 @@
 wpu Resolusi 2020
 -Membuat website
+-Membuat Aplikasi
 -Konsisten
